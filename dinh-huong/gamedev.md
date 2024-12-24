@@ -1,3 +1,6 @@
+# Tổng hợp tài nguyên tự học lập trình Game bằng Tiếng Việt
+Như tên tiêu đề.
+
 ### Unity
 
 * [Học Lập Trình Game Unity3D - Cơ Bản](https://www.youtube.com/playlist?list=PL33lvabfss1wO1v5j9J5PHsbkQRlmo7KD) - K team
@@ -18,10 +21,10 @@
 - [C++ lập trình game đa nền tảng với engine Cocos2DX](https://www.youtube.com/playlist?list=PLzrVYRai0riQT2Ss1i_V40UAycn50QQsU)
 - [C++ lập trình game với Unreal Engine](https://www.youtube.com/playlist?list=PLYPJkukC0aLaKRMt9Y0PIOtbJ27UGhB8J)
 
-## Unreal 
+### Unreal 
 - [Unreal Blueprints cơ bản](https://www.youtube.com/playlist?list=PLOFJYrZli1igeSdy4wrv5ckUX2NKxnso7)
 - [Unreal Blueprints làm game RPG](https://www.youtube.com/playlist?list=PLV21qTqtW_f8xRsA4pJUYm71S0iVThTg7)
 
-## Godot
+### Godot
 - [Godot 3](https://www.youtube.com/playlist?list=PLspwm81PoUmt-iloA0QCdAMYKqcRoV1UL)
 - [Godot 4](https://www.youtube.com/playlist?list=PLfwz6vw-dOArs18_aaoTP0z2ER0UR_lh4)

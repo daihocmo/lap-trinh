@@ -5,7 +5,7 @@ Khu này chỉ là khởi đầu, đây là [một danh sách riêng tổng hợ
 - [JS F8 - Youtube](https://www.youtube.com/playlist?list=PL_-VfJajZj0VgpFpEVFzS5Z-lkXtBe-x5) - [Một khóa JS nâng cao khác cũng của F8](https://www.youtube.com/playlist?list=PL_-VfJajZj0U1MSx1IMu13oLJq2nM97ac)
 
 
-## JS nâng cao và jQuery
+### JS nâng cao và jQuery
 - [JavaScript nâng cao](https://www.youtube.com/playlist?list=PL_-VfJajZj0U1MSx1IMu13oLJq2nM97ac)
 - [Design Patterns với JavaScript](https://www.youtube.com/playlist?list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ)
 - [jQuery](https://www.youtube.com/playlist?list=PLRhlTlpDUWsyAGY7FDGSndEhOD3F2Ruhm)
@@ -14,12 +14,12 @@ Khu này chỉ là khởi đầu, đây là [một danh sách riêng tổng hợ
 ### AJAX
 * [Học AJAX cơ bản và nâng cao](https://hoclaptrinh.vn/tutorial/hoc-ajax)
 
-## Linh tinh
+### Linh tinh
 - [TailwindCSS](https://www.youtube.com/playlist?list=PLd8OdiciAE1TkDTHIytrVT5Eamgseh9LU) - CSS framework
 <!-- - [HTMX]() - Thư viện front-end JavaScript -->
 * [Tự học Bootstrap 4 cơ bản](https://www.youtube.com/playlist?list=PLQi-dJ8Gqv2i1NHD8f-E2w-zrrr9G7HUJ) - VIETPRO
 
-## Frontend Web Framework 
+### Frontend Web Framework 
 - [React JS + Redux](https://www.youtube.com/playlist?list=PLJ5qtRQovuEOoKffoCBzTfvzMTTORnoyp) - [Cập nhật thêm](https://www.youtube.com/playlist?list=PLd8OdiciAE1REwyIQ1dNwzB5R_ateRwrA)
 - [ReactJS 2022](https://www.youtube.com/playlist?list=PL_-VfJajZj0UXjlKfBwFX73usByw3Ph9Q)
 - [Vue JS](https://www.youtube.com/playlist?list=PLU4OBh9yHE95G_Y1cUVY-5Mc9P-rQBY3F) - [Vue JS 3](https://www.youtube.com/playlist?list=PLU4OBh9yHE94sZ3TPGt0QG_PIwrZ1QF6i)
@@ -28,7 +28,7 @@ Khu này chỉ là khởi đầu, đây là [một danh sách riêng tổng hợ
 - [Nuxt JS](https://www.youtube.com/playlist?list=PLU4OBh9yHE95vUcrqa0IBQLmuajUR-Bb9)
 
 
-## Nodejs
+### Nodejs
 - [NodeJS Express cơ bản](https://www.youtube.com/playlist?list=PL_-VfJajZj0VatBpaXkEHK_UPHL7dW6I3)
 - [Nodejs Express đầy đủ hơn](https://www.youtube.com/playlist?list=PLodO7Gi1F7R1GMefX_44suLAaXnaNYMyC)
 - [NodeJS trọn bộ](https://www.youtube.com/playlist?list=PLqnlyu33Xy-6g7IqU5-3BXOfewcJKoL08)
@@ -79,12 +79,11 @@ Khu này chỉ là khởi đầu, đây là [một danh sách riêng tổng hợ
 
 
 
-
-
+### Flask & Django (Python)
 [Python làm backend bằng Flask Framework](https://www.youtube.com/playlist?list=PLlVHoHHccp28Q_4XoHAFuNsi92wBeI3Fw)
 [Python làm backend bằng Django Framework](https://www.youtube.com/playlist?list=PLZEIt444jqpB1j3RD4BrYm9JmNVYuzVNm)
 
-## PHP
+### PHP
 - [PHP cơ bản và nâng cao](https://youtube.com/playlist?list=PLaevEBkXyvnXEMoe6ZHFJGjPDb_eCCVNc&si=j8UWIPzFawRR-yCh)
 * [Tự học PHP - Các đối tượng khác trong PHP](https://www.youtube.com/playlist?list=PLv6GftO355Av7YIhRHajDEWCHq1viEKEy) - ZendVN
 * [Tự học PHP - Làm việc với ASNT](https://www.youtube.com/playlist?list=PLv6GftO355At4rfAAqGCtokc3W1uDnv28) - ZendVN
@@ -95,7 +94,7 @@ Khu này chỉ là khởi đầu, đây là [một danh sách riêng tổng hợ
 
 
 
-## Danh sách đồ án
+### Danh sách đồ án
 * [Đồ án Web môi giới](https://www.youtube.com/playlist?list=PLiyVagO7GfBE1j4vjp-QLc1KHR1LPIl3G) - J2Team
 * [Lập Trình Web Chuyên Sâu](https://www.youtube.com/playlist?list=PLiyVagO7GfBE1l9XIGemSpy8bnm7QDmsY) - J2Team
 * [Lập Trình Web Cơ Bản](https://www.youtube.com/playlist?list=PLiyVagO7GfBE3_b-4lJEVk7iq1pHQ-xcM) - J2Team
@@ -145,7 +144,7 @@ Khu này chỉ là khởi đầu, đây là [một danh sách riêng tổng hợ
 * [Tự Học Sass](https://www.youtube.com/playlist?list=PLv6GftO355AtWld1EE7SBAH-OkKKt23Bb) - ZendVN
 
 
-## TypeScript
+### TypeScript
 
 * [TypeScript căn bản](https://www.youtube.com/playlist?list=PLv6GftO355AsQtYp_YrsqEihOCiNlZkCb) - ZendVN
 * [TypeScript căn bản (ES6)](https://tedu.com.vn/khoa-hoc/khoa-hoc-su-dung-typescript-can-ban-9.html) - TEDU

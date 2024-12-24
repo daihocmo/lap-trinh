@@ -1,4 +1,6 @@
-## Android
+# Tự học lập trình di động bằng Tiếng Việt
+Như tên tiêu đề
+### Android
 * [Lập trình Android - Android Widgets - Các điều khiển](https://www.youtube.com/playlist?list=PLv6GftO355At6jjYThbMn-5r164GJ5Vyb) - ZendVN
 * [Lập trình Android - Menu - Context Menu - Dialog](https://www.youtube.com/playlist?list=PLv6GftO355Avjf5iuNbEUsIZbltzDEuIU) - ZendVN
 * [Lập trình Android - Xây dựng bố cục giao diện với Android Layout](https://www.youtube.com/playlist?list=PLv6GftO355AtfPQx7M3dkWgi9KPUB9S0V) - ZendVN
@@ -16,7 +18,7 @@
     - <https://www.youtube.com/playlist?list=PLclUEECd6Xzs8D0Je2m_RrXFENuB-UnPP>
 
 
-### Swift
+#### Swift
 - [Swift (iOS) cơ bản](https://www.youtube.com/playlist?list=PLVDJsRQrTUz5X_4vearxkGN589zB7qrzq)
 - [Swift (iOS) đầy đủ qua các ứng dụng thực tế](https://www.youtube.com/playlist?list=PLzrVYRai0riQ_FNlG7Z-7XHf_fYhEKcrN)
 - [SwiftUI](https://www.youtube.com/playlist?list=PLBgIyLVk3GlSGQ68t3Qvfqg_x_RacLXje)
@@ -27,7 +29,7 @@
 * [Tổng hợp kỹ thuật làm app với Swift 3.x và XCode 8](https://www.youtube.com/playlist?list=PL4VEtQ6PTTQEsxWUwqkwbjZfXGTdMpb6T) - Ide Academy
 
 
-### Flutter
+#### Flutter
 - [Dart cơ bản](https://www.youtube.com/playlist?list=PLRoAKls-7kksChE3OhiE2iAeCa7h1kk5k)
 - [Flutter cơ bản](https://www.youtube.com/playlist?list=PL3Ob3F0T-08brnWfs8np2ROjICeT-Pr6T)
 - [Flutter từ cơ bản đến nâng cao](https://www.youtube.com/playlist?list=PLZqHbMxF8mzbcMAjOtClkRcEIkhvV3ZtL)
@@ -36,5 +38,5 @@
 * [Blazor căn bản](https://tedu.com.vn/khoa-hoc/xay-dung-ung-dung-mobile-voi-flutter-can-ban-31.html) - TEDU
 
 
-## React Native
+### React Native
 - [React Native](https://www.youtube.com/playlist?list=PLWBrqglnjNl12buYHtPhU3wjqk9rAuHhg)

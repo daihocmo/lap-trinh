@@ -186,6 +186,8 @@ Tham khảo [Chia sẻ lộ trình tự học đến khi có OFFER FRESHER (Java
 
 
 ### Rust
+Đọc [hướng dẫn cách học Rust](ngon-ngu/rust.md) - Phần lớn là Tiếng Anh.
+
 - [Rust Tiếng Việt](https://rust-tieng-viet.github.io/)
 - [Rust By Example Tiếng Việt](https://rustvn.ezidev.tech/)
 - [Rust cơ bản và nâng cao](https://www.youtube.com/playlist?list=PLFnEYduGTiXE2ejxmzTIraP2feI-pmeuw)
