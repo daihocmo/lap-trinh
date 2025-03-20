@@ -201,7 +201,6 @@ Các nguồn tài liệu dành riêng cho từng ngôn ngữ lập trình cụ t
 ### C/C++
 
 - [**Series Con trỏ trong C**](http://diendan.congdongcviet.com/threads/t42977::tim-hieu-ban-chat-cua-con-tro-tu-co-ban-den-nang-cao.cpp) - Bài viết trên Cộng đồng C Việt về con trỏ trong C.
-- [**C++ Cấu trúc dữ liệu**](http://diendan.congdongcviet.com/threads/t42977::c-cau-truc-du-lieu.380/) - *Đã thay thế link cũ bằng link khác từ diễn đàn.*
 - [**C++ từ cơ bản đến nâng cao - Codelearn**](https://codelearn.io/learning/cpp-cho-nguoi-moi-bat-dau) - Khóa học C++ cho người mới bắt đầu trên Codelearn.
 - [**Thư viện chuẩn C++ - Codelearn**](https://codelearn.io/learning/thu-vien-chuan-cpp) - Khóa học về Standard Template Library (STL) trong C++.
 - [**Lập trình hướng đối tượng trong C++ - Codelearn**](https://codelearn.io/learning/lap-trinh-huong-doi-tuong-trong-cpp) - Khóa học về lập trình hướng đối tượng với C++.
@@ -219,7 +218,6 @@ Các nguồn tài liệu dành riêng cho từng ngôn ngữ lập trình cụ t
 - [**Hướng dẫn Python**](https://mh0132345.github.io/python-tutorial/) - Python tutorial in Vietnamese - Tài liệu hướng dẫn Python, được duy trì trên Github bởi mh0132345.
 - [**Python cơ bản - Codelearn**](https://codelearn.io/learning/python-co-ban) - Khóa học Python cơ bản trên Codelearn.
 - [**quangvinh86/Python-Exercises**](https://github.com/quangvinh86/Python-Exercises) - Một số bài tập Python và bản dịch Tiếng Việt.
-- [**Lập trình website với Python Django**](https://www.youtube.com/playlist?list=PLv6G9J-zYi_417XBtJvE-n5n-16Q-5o9R) - *Đã thay thế link Kteam cũ bằng playlist Django đầy đủ hơn.*
 
 ### C#
 
@@ -229,15 +227,12 @@ Các nguồn tài liệu dành riêng cho từng ngôn ngữ lập trình cụ t
 
 ### Git
 
-- [**Cách sử dụng Git trong THỰC TẾ - Github**](https://www.youtube.com/watch?v=9_c444f9f5Q) - *Đã thay thế link Ông Dev cũ bằng link YouTube.*
-- [**Git - from Zero to Hero**](https://www.youtube.com/playlist?list=PLvK9jfErwnf9u0_OzG-9_42-9Uo1-J15a) - *Đã thay thế link CodersX cũ bằng playlist YouTube.*
+- [**Cách sử dụng Git trong THỰC TẾ - Github**](https://www.youtube.com/watch?v=O5uT6p6VWjY) - *Đã thay thế link Ông Dev cũ bằng link YouTube.*
 - [**Quản lý source code trong dự án với GIT**](https://tedu.com.vn/khoa-hoc/quan-ly-source-code-trong-du-an-voi-git-8.html) - Khóa học về Git trên TEDU.
-- [**Từ gà tới pro Git và Github trong 20 phút - Tự học Git siêu tốc**](https://www.youtube.com/watch?v=ihjoWln57Rw) - *Đã thay thế link toidicodedao cũ bằng link YouTube.*
-
+- [**Từ gà tới pro Git và Github trong 20 phút - Tự học Git siêu tốc**](https://www.youtube.com/watch?v=1JuYQgpbrW0)
 ### Go
 
 - [**Go Language Advanced Programming**](https://github.com/zalopay-oss/go-advanced) - Tài liệu về lập trình Go nâng cao từ Zalopay.
-- [**Lập trình Golang**](https://www.youtube.com/playlist?list=PLf7j5r7-6xV9n78-dGqg_z2-5m5w5s-r4) - *Đã thay thế link Code4Func cũ bằng playlist YouTube.*
 - [**The Little Go Book**](https://github.com/nainglinaung/the-little-go-book) - Sách "The Little Go Book" của Karl Seguin, bản dịch Tiếng Việt tại: [HTML](https://github.com/quangnh89/the-little-go-book/blob/master/vi/go.md).
 
 ### Rust
