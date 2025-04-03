@@ -1,0 +1,57 @@
+site_name: Lập trình - Khu học mở
+site_description: vozer vozer vozer vozer vozer vozer vozer
+site_author: khuhocmo
+repo_url: https://github.com/daihocmo/awesome-lap-trinh
+repo_name: Đóng góp cho trang trên Github
+
+nav:
+  - 'Trang chủ': 
+    - 'Tổng hợp': 'index.md'
+  - 'Định hướng':
+    - 'Desktop': 'dinh-huong/desktop.md'
+    - 'Game': 'dinh-huong/game.md'
+    - 'Mobile': 'dinh-huong/mobile.md'
+    - 'Web': 'dinh-huong/web.md'
+  - 'Môn học':
+    - 'Hệ thống phân tán': 'khoa-hoc/he-thong-phan-tan.md'
+  - 'Ngôn ngữ':
+    - 'Rust': 'ngon-ngu/rust.md'
+
+      
+theme:
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlighting
+    - search.share
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  language: vi
+      
+plugins:
+  - search
+  - open-in-new-tab
+  
+extra:
+  generator: false

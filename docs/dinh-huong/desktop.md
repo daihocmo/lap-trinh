@@ -1,4 +1,4 @@
-# Hướng dẫn lập trình Desktop
+# Tự học lập trình Desktop
 Sẽ được phân theo ngôn ngữ vì về cơ bản là nhiều ngôn ngữ lập trình đều được tạo ra hoặc có thể lập trình ứng dụng Desktop.
 
 ### C#

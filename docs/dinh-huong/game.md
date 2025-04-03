@@ -1,4 +1,4 @@
-# Tổng hợp tài nguyên tự học lập trình Game bằng Tiếng Việt
+# Tự học lập trình Game
 Như tên tiêu đề.
 
 ### Unity

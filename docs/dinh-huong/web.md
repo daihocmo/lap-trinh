@@ -1,5 +1,6 @@
+# Học làm Web
 ### HTML/CSS/JS 
-Khu này chỉ là khởi đầu, đây là [một danh sách riêng tổng hợp rất nhiều về Web](./khoa-hoc/js-ecosystem.md)
+<!-- Khu này chỉ là khởi đầu, đây là [một danh sách riêng tổng hợp rất nhiều về Web](./khoa-hoc/js-ecosystem.md) -->
 
 - [HTML & CSS F8 - Youtube](https://www.youtube.com/playlist?list=PL_-VfJajZj0U9nEXa4qyfB4U5ZIYCMPlz)
 - [JS F8 - Youtube](https://www.youtube.com/playlist?list=PL_-VfJajZj0VgpFpEVFzS5Z-lkXtBe-x5) - [Một khóa JS nâng cao khác cũng của F8](https://www.youtube.com/playlist?list=PL_-VfJajZj0U1MSx1IMu13oLJq2nM97ac)

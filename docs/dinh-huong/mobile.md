@@ -1,4 +1,4 @@
-# Tự học lập trình di động bằng Tiếng Việt
+# Tự học lập trình di động
 Như tên tiêu đề
 ### Android
 * [Lập trình Android - Android Widgets - Các điều khiển](https://www.youtube.com/playlist?list=PLv6GftO355At6jjYThbMn-5r164GJ5Vyb) - ZendVN
