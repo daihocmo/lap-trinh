@@ -133,8 +133,11 @@ Phát triển các ứng dụng chạy trên máy tính cá nhân.
 - [**Lập trình Desktop Cơ bản**](dinh-huong/desktop.md) - Gợi ý:* Java (Swing/JavaFX), C# (.NET Windows Forms/WPF), Python (Tkinter/PyQt).
 
 ### 📱 Lập trình Mobile
+#### 🗃️ Swift iOS
 
 Xây dựng ứng dụng cho các nền tảng di động như Android và iOS.
+
+- [**Lập trình iOS**](dinh-huong/swift/index.md) - Road map cũng như các nguồn + khóa học iOS uy tín + chia sẻ kinh nghiệm cá nhân
 
 - [**Trang định hướng**](dinh-huong/mobile.md) - *Gợi ý:* Android (Java/Kotlin), iOS (Swift/Objective-C), Cross-platform (React Native, Flutter, Xamarin).
 
