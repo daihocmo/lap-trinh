@@ -17,8 +17,6 @@
 
 ### Linh tinh
 - [TailwindCSS](https://www.youtube.com/playlist?list=PLd8OdiciAE1TkDTHIytrVT5Eamgseh9LU) - CSS framework
-<!-- - [HTMX]() - Thư viện front-end JavaScript -->
-* [Tự học Bootstrap 4 cơ bản](https://www.youtube.com/playlist?list=PLQi-dJ8Gqv2i1NHD8f-E2w-zrrr9G7HUJ) - VIETPRO
 
 ### Frontend Web Framework 
 - [React JS + Redux](https://www.youtube.com/playlist?list=PLJ5qtRQovuEOoKffoCBzTfvzMTTORnoyp) - [Cập nhật thêm](https://www.youtube.com/playlist?list=PLd8OdiciAE1REwyIQ1dNwzB5R_ateRwrA)
@@ -43,6 +41,7 @@
 ### Khởi điểm
 - [Lý thuyết Backend Engineer cơ bản](https://www.youtube.com/playlist?list=PLw-L1SGSvTEcBzw9FsP5UFWqrErzS2jE2)
 - [Giải thích nhiều thứ về lập trình Backend](https://youtube.com/playlist?list=PL80CNtS5d8_xw7D9YY9lZKgSxj8ULRw7C&si=t6MObEiXEa82uwwG)
+- [Session, cookie, CORS, JWT, SSO](https://www.youtube.com/playlist?list=PL_-VfJajZj0VaEt6Q1Z_CSg_Ci9aP9oQ1)
 
 ### Microservices
 - [Microservices backend](https://www.youtube.com/playlist?list=PLw0w5s5b9NK5SUfrJ8rjIMYitT9K8WB8W)
@@ -76,7 +75,6 @@
 - [Elasticsearch và demo bằng PHP, Wordpress](https://www.youtube.com/playlist?list=PLwJr0JSP7i8AgjUjKnecVUN2i3txuS-1J)
 
 ### Liên quan
-- [Session, cookie, CORS, JWT, SSO](https://www.youtube.com/playlist?list=PL_-VfJajZj0VaEt6Q1Z_CSg_Ci9aP9oQ1)
 
 
 

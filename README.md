@@ -8,6 +8,9 @@ Chúng mình tin rằng Tiếng Anh là một yếu tố quan trọng trong ngà
 
 **Lưu ý quan trọng:** Hãy xem trang này như một điểm khởi đầu. Thế giới lập trình luôn thay đổi, vì vậy hãy chủ động tìm kiếm và khám phá thêm những nguồn tài liệu mới và phù hợp với bản thân.
 
+> [!IMPORTANT]  
+> Chương trình đã được làm thành một trang hoàn toàn mới là: [Lập trình - Khu học mở](https://daihocmo.github.io/lap-trinh/). Phần nội dung dưới đây đã cũ và sẽ không còn được cập nhật nữa. Vui lòng ghé qua trang học để tìm hiểu thêm về việc học lập trình.
+
 ## 🧭 Mục lục
 
 - [Giới thiệu](#%EF%B8%8F-t%E1%BB%95ng-h%E1%BB%A3p-t%C3%A0i-nguy%C3%AAn-h%E1%BB%8Dc-l%E1%BA%ADp-tr%C3%ACnh-%C4%91a-ng%C3%B4n-ng%E1%BB%AF-v%C3%A0-%C4%91%E1%BB%8Bnh-h%C6%B0%E1%BB%9Bng)

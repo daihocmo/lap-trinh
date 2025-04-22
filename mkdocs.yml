@@ -8,11 +8,17 @@ nav:
   - 'Trang chủ': 
     - 'Tổng hợp': 'index.md'
   - 'Định hướng':
-    - 'Desktop': 'dinh-huong/desktop.md'
-    - 'Game': 'dinh-huong/game.md'
     - 'Mobile':
-        - 'Swift': 'dinh-huong/swift/index.md'  # Adding Swift inside Mobile
-    - 'Web': 'dinh-huong/web.md'
+        - 'Native iOS (Swift)': 
+          - 'Định hướng': 'dinh-huong/swift/index.md'  # Adding Swift inside Mobile
+          - 'Nền tảng Swift': 'dinh-huong/swift/swift-foundation.md'  
+          - 'UIKit': 'dinh-huong/swift/swift-uikit.md'  
+          - 'SwiftUI': 'dinh-huong/swift/swift-swiftui.md'
+        - 'Native Android (Kotlin)':
+          - 'Định hướng': 'dinh-huong/kotlin/index.md'  # Adding Swift inside Mobile
+          - 'Nền tảng Kotlin': 'dinh-huong/kotlin/kotlin-foundation.md'
+    - 'Web': 
+      - 'Fullstack JavaScript': 'dinh-huong/fullstack-js/index.md'
   - 'Môn học':
     - 'Hệ thống phân tán': 'khoa-hoc/he-thong-phan-tan.md'
   - 'Ngôn ngữ':

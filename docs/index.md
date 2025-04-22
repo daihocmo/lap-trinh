@@ -2,9 +2,9 @@
 
 ## Giới thiệu
 
-Một danh sách những gì liên quan đến lập trình và việc học lập trình. Có rất nhiều những tài liệu lập trình bằng Tiếng Việt tốt. Trang này chỉ đơn giản là một trang tổng hợp không bao giờ đầy đủ về những nguồn tài nguyên chất lượng có mặt.
+Một danh sách những gì liên quan đến lập trình và việc học lập trình. Có rất nhiều những tài liệu lập trình bằng Tiếng Việt tốt. Trang này chỉ đơn giản là một trang tổng hợp không bao giờ đầy đủ về những nguồn tài nguyên chất lượng đang tồn tại.
 
-Chúng mình tin rằng Tiếng Anh là một yếu tố quan trọng trong ngành công nghệ thông tin. Vì vậy, bạn *nên* học Tiếng Anh song song với việc khám phá các tài liệu Tiếng Việt. Nguồn tài liệu Tiếng Anh thường phong phú và cập nhật hơn, mở ra nhiều cơ hội học tập và phát triển. Dù vậy, những kiến thức cốt lõi như các Internet hoạt động, cấu trúc dữ liệu và giải thuật và tương tự thì gần như sẽ không lỗi thời theo thời gian (Phần này bạn có thể học bằng Tiếng Việt hay Tiếng Anh đều ok, Tiếng Anh thì có lẽ sẽ tốt hơn).
+Chúng mình tin rằng Tiếng Anh là một yếu tố quan trọng trong ngành công nghệ thông tin. Vì vậy, bạn *nên* học Tiếng Anh song song với việc khám phá các tài liệu Tiếng Việt. Nguồn tài liệu Tiếng Anh thường phong phú và mới hơn. Dù vậy, những kiến thức cốt lõi như cách Internet hoạt động, cấu trúc dữ liệu & giải thuật và tương tự thì gần như là *timeless* (Phần này bạn có thể học bằng Tiếng Việt hay Tiếng Anh đều ok, Tiếng Anh thì có lẽ sẽ tốt hơn).
 
 **Lưu ý quan trọng:** Hãy xem trang này như một điểm khởi đầu. Thế giới lập trình luôn thay đổi, vì vậy hãy chủ động tìm kiếm và khám phá thêm những nguồn tài liệu mới và phù hợp với bản thân.
 
@@ -14,35 +14,38 @@ Chúng mình tin rằng Tiếng Anh là một yếu tố quan trọng trong ngà
 
 Nâng cao khả năng đọc hiểu tài liệu kỹ thuật và giao tiếp trong ngành IT.
 
-- [**Tự học Tiếng Anh Chuyên Ngành**](https://daihocmo.github.io/archive/tieng-anh-chuyen-nganh/) - Tài liệu tổng hợp ngữ pháp, từ vựng và các chủ đề liên quan đến CNTT.
-- [**Tất tần về Tiếng Anh cho dân IT (Hoặc tương tự)**](https://voz.vn/t/tat-tan-ve-tieng-anh-cho-dan-it-hoac-tuong-tu.1022310/) - Chia sẻ kinh nghiệm và tài liệu học tiếng Anh từ cộng đồng.
+- [**Tự học Tiếng Anh chuyên ngành**](https://daihocmo.github.io/archive/tieng-anh-chuyen-nganh/) - Tài liệu tổng hợp ngữ pháp, từ vựng và các chủ đề liên quan đến CNTT.
+- [**Tất tần về Tiếng Anh cho dân IT**](https://voz.vn/t/tat-tan-ve-tieng-anh-cho-dan-it-hoac-tuong-tu.1022310/) - Chia sẻ kinh nghiệm và tài liệu học tiếng Anh từ cộng đồng (Thread trên Voz). 
 
 ### 💻 Kiến trúc máy tính
 
-Hiểu rõ về cách máy tính hoạt động là nền tảng quan trọng cho mọi lập trình viên.
-
-- [**Phần cứng máy tính - Codelearn**](https://codelearn.io/learning/phan-cung-may-tinh) - Khóa học cơ bản về các thành phần và chức năng của phần cứng máy tính.
+- [Dive into Systems](https://diveintosystems.org/book/) - Một cuốn sách miễn phí hiếm hoi về Kiến trúc máy tính.
+- [From Nand to Tetris — Building a Modern Computer From First Principles](https://archive.org/details/nand2tetris)
+- [Giáo trình Cấu trúc máy tính: Sự tương đương logic của phần cứng và phần mềm - Tống Văn On (chủ biên); Hoàng Đức Hải](https://archive.org/details/gtr.cautrucmaytinh/) - Thông tin trong sách có thể đã lỗi thời, bạn nên tham khảo thêm các nguồn khác (Đây là nguồn Tiếng Việt duy nhất).
 
 ### ⚙️ Thiết kế phần mềm
 
-Nắm vững các nguyên tắc và phương pháp thiết kế phần mềm hiệu quả.
+- [Software Engineering 10th - Ian Sommerville](https://ia802306.us.archive.org/35/items/bme-vik-konyvek/Software%20Engineering%20-%20Ian%20Sommerville.pdf) - Tiếng Anh
 
 ### 📊 Cấu trúc dữ liệu và giải thuật
 
 Nền tảng cốt lõi để giải quyết các bài toán lập trình một cách hiệu quả.
 
 - [**Giải thuật và Lập trình – Lê Minh Hoàng**](https://archive.org/details/giai-thuat-va-lap-trinh-le-minh-hoang) - Cuốn sách kinh điển về giải thuật và lập trình bằng Tiếng Việt.
-- [**Cấu trúc dữ liệu và giải thuật - Codelearn**](https://codelearn.io/learning/cau-truc-du-lieu-va-giai-thuat) - Khóa học trực tuyến về các cấu trúc dữ liệu cơ bản và thuật toán thông dụng.
+- [Giáo Trình Thuật Toán](https://archive.org/details/giao-trinh-thuat-toan)
 
 ### ➕ Toán
 
 Toán học là nền tảng logic cho nhiều lĩnh vực trong lập trình.
 
+- [Giáo trình Toán rời rạc - TS. Võ Văn Tuấn Dũng](https://archive.org/details/gtr.toanroirac)
+- [Giáo trình toán rời rạc - Tổ hợp và đồ thị](http://math.ac.vn/training/images/TTDaotao/VinIF/Toanroirac_NHThach.pdf) của Nguyễn Hoàng Thạch.
 
 ### ⚙️ Hệ điều hành
 
 Hiểu về cách hệ điều hành quản lý tài nguyên và tương tác với phần cứng.
 
+*Coming soon...* 
 
 ### 💾 Cơ sở dữ liệu
 
@@ -52,26 +55,24 @@ Làm việc với dữ liệu là một phần không thể thiếu trong hầu 
 
 Ngôn ngữ truy vấn cơ sở dữ liệu quan hệ tiêu chuẩn.
 
-- [**Thực hành với SQL - Codelearn**](https://codelearn.io/learning/thuc-hanh-voi-sql) - Bài tập thực hành SQL trên nền tảng Codelearn.
+*Coming soon...* 
 
 #### 🐘 PostgreSQL
-
 Một hệ quản trị cơ sở dữ liệu quan hệ mã nguồn mở mạnh mẽ.
 
+*Coming soon...* 
 
 #### 🍃 MongoDB
 
 Một hệ quản trị cơ sở dữ liệu NoSQL phổ biến.
 
-- [**Giáo trình tự học NoSQL - MongoDB**](https://www.youtube.com/playlist?list=PLv6GftO355Aug0rwKfb6v96mlYrwOw7XV) - Giáo trình từ ZendVN.
-- [**Mongo DB cơ bản**](https://www.youtube.com/playlist?list=PLU4OBh9yHE94QAav7qIuaTtH9-pq39We8) - Khóa học từ RHP Team.
-- [**MongoDB 2020**](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-vgHI_wNWPHKdiRwlgQXaTR) - Khóa học từ CodersX.
+*Coming soon...* 
 
 ### 🌐 Mạng máy tính
 
 Hiểu về cách các máy tính giao tiếp với nhau trong mạng.
 
-- [**datnguyenE18/Network**](https://github.com/datnguyenE18/Network) - Repository tổng hợp kiến thức về hệ thống mạng.
+*Coming soon...* 
 
 ### 🤖 Trí tuệ nhân tạo
 
@@ -93,13 +94,13 @@ Bảo vệ hệ thống và dữ liệu khỏi các mối đe dọa.
 
 Quản lý và vận hành hệ thống máy chủ và các dịch vụ.
 
-- [**git-github-for-sysadmin**](https://github.com/hocchudong/git-github-for-sysadmin) - Hướng dẫn sử dụng Git và GitHub
-- 
+- [**git-github-for-sysadmin**](https://github.com/hocchudong/git-github-for-sysadmin) - Hướng dẫn sử dụng Git và GitHub (Hướng dẫn này đã lỗi thời)
+
 ### 🌐 Hệ thống phân tán
 
 Xây dựng các ứng dụng có khả năng mở rộng và chịu lỗi cao.
 
-- [**Tìm hiểu về hệ phân tán**](./khoa-hoc/he-thong-phan-tan.md) - Bài viết trên Viblo của Hero Gustin.
+*Coming soon...* 
 
 ## 🎓 Học ở bậc đại học
 
@@ -107,13 +108,12 @@ Tài liệu tham khảo từ các trường đại học hàng đầu.
 
 - [**Kho tài liệu học tập UIT**](http://svuit.org/mmtt/) - Tổng hợp tài liệu từ Đại học Công nghệ Thông tin TP.HCM.
 - [**Tài liệu HUST**](https://tailieuhust.com/) - Tổng hợp tài liệu từ Đại học Bách khoa Hà Nội.
-- [**awesome-UIT-projects**](https://github.com/SVUIT/awesome-UIT-projects) - Tổng hợp các project liên quan đến môn học của sinh viên UIT.
 
-## 📂 Những thứ linh tinh khác
+## 📂 Các khóa học khác
 
 Các tài liệu và nguồn tham khảo hữu ích khác.
 
-- [**Kì Học Bị Thiếu Của Giáo Trình Khoa Học Máy Tính**](https://missing-semester-vn.github.io/) - Bản dịch Tiếng Việt của khóa học "The Missing Semester of Your CS Education".
+- [**The Missing Semester of Your CS Education - Vietnamese Translation**](https://missing-semester-vn.github.io/) - Bản dịch Tiếng Việt của khóa học "The Missing Semester of Your CS Education".
 - [**CS50 Vietsub**](https://www.youtube.com/playlist?list=PLJ3cEjfn1AKRdtE2KNLCw0sgBfdmAeulI) - Bản Vietsub cho khóa CS50 của Harvard trên YouTube.
 
 ## 🎯 Định hướng học tập theo lĩnh vực
@@ -122,30 +122,27 @@ Hướng dẫn học tập cho các lĩnh vực phát triển phần mềm khác
 
 ### 🕸️ Lập trình Web
 
-Tạo ra các ứng dụng và trang web tương tác.
-
-- [**Lập trình Web Cơ bản**](dinh-huong/web.md) - *Gợi ý:* HTML, CSS, JavaScript cơ bản, sau đó có thể chọn các framework/thư viện như React, Angular, Vue.js cho Frontend và Node.js, Python (Django/Flask), PHP (Laravel/Symfony), Ruby on Rails cho Backend.
+*Coming soon...* (Đang trong quá trình tu sửa lại)
 
 ### 🖥️ Lập trình Desktop
 
 Phát triển các ứng dụng chạy trên máy tính cá nhân.
 
-- [**Lập trình Desktop Cơ bản**](dinh-huong/desktop.md) - Gợi ý:* Java (Swing/JavaFX), C# (.NET Windows Forms/WPF), Python (Tkinter/PyQt).
+*Coming soon...* (Đang trong quá trình tu sửa lại)
 
 ### 📱 Lập trình Mobile
 #### 🗃️ Swift iOS
 
 Xây dựng ứng dụng cho các nền tảng di động như Android và iOS.
 
-- [**Lập trình iOS**](dinh-huong/swift/index.md) - Road map cũng như các nguồn + khóa học iOS uy tín + chia sẻ kinh nghiệm cá nhân
-
-- [**Trang định hướng**](dinh-huong/mobile.md) - *Gợi ý:* Android (Java/Kotlin), iOS (Swift/Objective-C), Cross-platform (React Native, Flutter, Xamarin).
+- [**Lập trình iOS**](dinh-huong/swift/index.md) - Road map cũng như các nguồn + khóa học iOS uy tín + chia sẻ kinh nghiệm cá nhân - Được viết bởi [neotruong](https://github.com/neotruong).
+- [**Lập trình Android**](dinh-huong/kotlin/index.md) - Road map cũng như các nguồn + khóa học - Được viết bởi [neotruong](https://github.com/neotruong).
 
 ### 🎮 Lập trình Game
 
 Tạo ra những trải nghiệm giải trí tương tác.
 
-- [**Trang định hướng**](dinh-huong/game.md) - *Gợi ý:* Unity (C#), Unreal Engine (C++), Godot Engine (GDScript/C#).
+*Coming soon...* (Đang trong quá trình tu sửa lại)
 
 ## 💻 Tài liệu học theo ngôn ngữ lập trình
 
@@ -162,28 +159,19 @@ Các nguồn tài liệu dành riêng cho từng ngôn ngữ lập trình cụ t
 ### C/C++
 
 - [**Series Con trỏ trong C**](http://diendan.congdongcviet.com/threads/t42977::tim-hieu-ban-chat-cua-con-tro-tu-co-ban-den-nang-cao.cpp) - Bài viết trên Cộng đồng C Việt về con trỏ trong C.
-- [**C++ từ cơ bản đến nâng cao - Codelearn**](https://codelearn.io/learning/cpp-cho-nguoi-moi-bat-dau) - Khóa học C++ cho người mới bắt đầu trên Codelearn.
-- [**Thư viện chuẩn C++ - Codelearn**](https://codelearn.io/learning/thu-vien-chuan-cpp) - Khóa học về Standard Template Library (STL) trong C++.
-- [**Lập trình hướng đối tượng trong C++ - Codelearn**](https://codelearn.io/learning/lap-trinh-huong-doi-tuong-trong-cpp) - Khóa học về lập trình hướng đối tượng với C++.
-- [**C++ nâng cao**](https://codelearn.io/learning/cpp-nang-cao) - Khóa học C++ nâng cao trên Codelearn.
 
 ### Java
 
 - Tham khảo [Chia sẻ lộ trình tự học đến khi có OFFER FRESHER (Java) đầu tiên](https://voz.vn/t/chia-se-lo-tinh-tu-hoc-den-khi-co-offer-fresher-java-dau-tien.757819/) - Kinh nghiệm tự học Java từ cộng đồng.
-- [**Java all**](https://github.com/loda-kun/java-all) - Repository tổng hợp tài liệu và hướng dẫn về Java.
-- [**java-co-ban - codelearn.io**](https://codelearn.io/learning/java-co-ban) - Khóa học Java cơ bản trên Codelearn.
-- [**Lập trình hướng đối tượng trong Java - Codelearn**](https://codelearn.io/learning/lap-trinh-huong-doi-tuong-trong-java) - Khóa học về lập trình hướng đối tượng với Java trên Codelearn.
 
 ### Python
 
 - [**Hướng dẫn Python**](https://mh0132345.github.io/python-tutorial/) - Python tutorial in Vietnamese - Tài liệu hướng dẫn Python, được duy trì trên Github bởi mh0132345.
-- [**Python cơ bản - Codelearn**](https://codelearn.io/learning/python-co-ban) - Khóa học Python cơ bản trên Codelearn.
 - [**quangvinh86/Python-Exercises**](https://github.com/quangvinh86/Python-Exercises) - Một số bài tập Python và bản dịch Tiếng Việt.
 
 ### C#
 
 - [**Lập trình C# cơ bản - XUANTHULAB**](https://xuanthulab.net/lap-trinh-c-co-ban/) - Loạt bài viết hướng dẫn lập trình C# cơ bản từ XUANTHULAB.
-- [**C# từ cơ bản đến nâng cao cho đến .Net Core MVC**](https://www.youtube.com/playlist?list=PLzj7k_f9O-K-a99595x-6rs-oot-wYJ46) - *Đã thay thế link cũ bằng playlist C# đầy đủ hơn.*
 - [**BoyBanhMi/CSharp**](https://github.com/BoyBanhMi/CSharp) - Chia sẻ code C# trên GitHub.
 
 ### Git
@@ -191,10 +179,11 @@ Các nguồn tài liệu dành riêng cho từng ngôn ngữ lập trình cụ t
 - [**Cách sử dụng Git trong THỰC TẾ - Github**](https://www.youtube.com/watch?v=O5uT6p6VWjY) - *Đã thay thế link Ông Dev cũ bằng link YouTube.*
 - [**Quản lý source code trong dự án với GIT**](https://tedu.com.vn/khoa-hoc/quan-ly-source-code-trong-du-an-voi-git-8.html) - Khóa học về Git trên TEDU.
 - [**Từ gà tới pro Git và Github trong 20 phút - Tự học Git siêu tốc**](https://www.youtube.com/watch?v=1JuYQgpbrW0)
+
 ### Go
 
-- [**Go Language Advanced Programming**](https://github.com/zalopay-oss/go-advanced) - Tài liệu về lập trình Go nâng cao từ Zalopay.
 - [**The Little Go Book**](https://github.com/nainglinaung/the-little-go-book) - Sách "The Little Go Book" của Karl Seguin, bản dịch Tiếng Việt tại: [HTML](https://github.com/quangnh89/the-little-go-book/blob/master/vi/go.md).
+- [**Go Language Advanced Programming**](https://github.com/zalopay-oss/go-advanced) - Tài liệu về lập trình Go nâng cao từ Zalopay.
 
 ### Rust
 
